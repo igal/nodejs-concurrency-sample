@@ -4,4 +4,4 @@ serve:
 	node app.js
 
 setup:
-	npm install express jade webworker mysql mysql-pool parallel
+	npm install express jade webworker mysql mysql-pool seq
